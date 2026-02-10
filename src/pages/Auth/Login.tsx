@@ -26,7 +26,7 @@ function Login() {
           </div>
         </div>
       </div>
-      <div className="grid justify-center place-items-center sm:w-[50%]">
+      <div className="grid justify-center place-items-center lg:w-[50%] sm:w-full">
         <div className="h-screen grid justify-center place-items-center">
           <form className="w-96 p-6">
             <h1 className="text-2xl font-bold">Welcome Back</h1>
